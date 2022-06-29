@@ -1,0 +1,5 @@
+ THE FINAL LIST FOR FOOD ORDER 
+Idly
+chapathi
+parotta
+The total calories for the meal is 488.000000
